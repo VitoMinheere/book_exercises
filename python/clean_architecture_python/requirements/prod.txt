@@ -1,0 +1,5 @@
+flask==2.2.1
+SQLAlchemy
+psycopg2
+werkzeug==2.2.2
+pymongo
